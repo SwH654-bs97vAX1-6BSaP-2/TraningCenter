@@ -1685,7 +1685,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":1051.43143604817,
                  "id":44,
                  "name":"birds-1",
@@ -1706,13 +1705,67 @@
                          "value":"\/birds.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
-                 "width":2428.46872267195,
+                 "width":880.081625897757,
                  "x":-9.24092926003641,
                  "y":1330.96814547067
                 }, 
                 {
-                 "class":"area",
+                 "height":1051.43,
+                 "id":74,
+                 "name":"birds-1",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/birds.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1303.85110016978,
+                 "x":1083.89787945671,
+                 "y":1320.12540747029
+                }, 
+                {
+                 "height":729.528471986418,
+                 "id":75,
+                 "name":"birds-1",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/birds.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":219.979032258065,
+                 "x":867.939176570459,
+                 "y":1629.80282682513
+                }, 
+                {
                  "height":127.911523310221,
                  "id":1,
                  "name":"website1",
@@ -1728,13 +1781,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":127.260431703969,
                  "x":384.298596499778,
                  "y":863.235950881647
                 }, 
                 {
-                 "class":"area",
                  "height":129.051017107854,
                  "id":5,
                  "name":"website2",
@@ -1750,13 +1803,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":127.117506201461,
                  "x":515.418636000097,
                  "y":959.991897529609
                 }, 
                 {
-                 "class":"area",
                  "height":176.954,
                  "id":48,
                  "name":"fire",
@@ -1777,13 +1830,13 @@
                          "value":"\/fire.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":291.619,
                  "x":1540.68227122372,
                  "y":317.258701482809
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":50,
                  "name":"exit-1",
@@ -1794,13 +1847,13 @@
                          "value":"#entry\/portal-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":2176.60638707195,
                  "y":929.203539823009
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":51,
                  "name":"exit-2",
@@ -1811,13 +1864,13 @@
                          "value":"#entry\/portal-2"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":2078.36400469418,
                  "y":447.969369894388
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":54,
                  "name":"exit-addon-1",
@@ -1828,13 +1881,13 @@
                          "value":"library.tmj"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":1152.1622443692,
                  "y":224.543506658098
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":56,
                  "name":"exit-addon-2",
@@ -1845,13 +1898,13 @@
                          "value":"orientation-to-colearning.tmj"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":2303.89142430959,
                  "y":1441.05188105524
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":57,
                  "name":"exit-addon-3",
@@ -1862,46 +1915,46 @@
                          "value":"ocean.tmj"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":1343.62783357232,
                  "y":2176.91355705972
                 }, 
                 {
-                 "class":"area",
                  "height":42.5959505017277,
                  "id":59,
                  "name":"Addon1Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":80.3665821004483,
                  "x":1142.56831726462,
                  "y":148.659185317927
                 }, 
                 {
-                 "class":"area",
                  "height":46.7137440637948,
                  "id":60,
                  "name":"Addon2Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":82.7967491297018,
                  "x":2294.26380348546,
                  "y":1351.00769522488
                 }, 
                 {
-                 "class":"area",
                  "height":44.9315305546166,
                  "id":58,
                  "name":"Addon3Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":78.6382509416187,
                  "x":1338.02173703148,
                  "y":2066.49426584873
                 }, 
                 {
-                 "class":"area",
                  "height":81.9611,
                  "id":61,
                  "name":"website5",
@@ -1917,13 +1970,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":62.8772,
                  "x":1055.4303144754,
                  "y":1026.43507692201
                 }, 
                 {
-                 "class":"area",
                  "height":127.353,
                  "id":62,
                  "name":"website6",
@@ -1939,13 +1992,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.4222,
                  "x":1183.6903144754,
                  "y":899.149076922007
                 }, 
                 {
-                 "class":"area",
                  "height":128.858,
                  "id":63,
                  "name":"website7",
@@ -1961,13 +2014,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.7431,
                  "x":1439.8503144754,
                  "y":897.595076922007
                 }, 
                 {
-                 "class":"area",
                  "height":126.998,
                  "id":64,
                  "name":"website8",
@@ -1983,13 +2036,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.2147,
                  "x":1599.3103144754,
                  "y":899.055076922007
                 }, 
                 {
-                 "class":"area",
                  "height":127.768,
                  "id":65,
                  "name":"website9",
@@ -2005,13 +2058,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.5933,
                  "x":1759.0103144754,
                  "y":898.445076922007
                 }, 
                 {
-                 "class":"area",
                  "height":95.1287,
                  "id":66,
                  "name":"website10",
@@ -2027,13 +2080,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.389,
                  "x":1919.6903144754,
                  "y":866.529076922007
                 }, 
                 {
-                 "class":"area",
                  "height":125.028,
                  "id":67,
                  "name":"website17",
@@ -2049,13 +2102,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":93.5482971147944,
                  "x":1473.50960217866,
                  "y":1409.49324055293
                 }, 
                 {
-                 "class":"area",
                  "height":128.449341927563,
                  "id":68,
                  "name":"website18",
@@ -2071,13 +2124,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.4536390423573,
                  "x":1665.24960217866,
                  "y":1408.42589862536
                 }, 
                 {
-                 "class":"area",
                  "height":128.327683855126,
                  "id":69,
                  "name":"website19",
@@ -2093,13 +2146,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.3686753152599,
                  "x":1854.73754012306,
                  "y":1408.1285566978
                 }, 
                 {
-                 "class":"area",
                  "height":127.859,
                  "id":70,
                  "name":"website14",
@@ -2115,13 +2168,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.5746,
                  "x":736.07976011236,
                  "y":2048.11286516854
                 }, 
                 {
-                 "class":"area",
                  "height":127.491,
                  "id":71,
                  "name":"website15",
@@ -2137,13 +2190,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.5366,
                  "x":862.90976011236,
                  "y":1984.10286516854
                 }, 
                 {
-                 "class":"area",
                  "height":128.74,
                  "id":72,
                  "name":"website16",
@@ -2159,6 +2212,7 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":98.2943,
                  "x":1023.06976011236,
@@ -2936,7 +2990,7 @@
          "y":0
         }],
  "nextlayerid":61,
- "nextobjectid":73,
+ "nextobjectid":76,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -2960,7 +3014,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -61020,6 +61074,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":75
 }

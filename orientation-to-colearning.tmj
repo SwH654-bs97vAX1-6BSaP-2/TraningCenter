@@ -1147,7 +1147,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":1051.43143604817,
                  "id":44,
                  "name":"birds-1",
@@ -1168,13 +1167,67 @@
                          "value":"\/birds.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
-                 "width":2428.46872267195,
+                 "width":871.932220125261,
                  "x":-9.24092926003641,
                  "y":1330.96814547067
                 }, 
                 {
-                 "class":"area",
+                 "height":1051.43,
+                 "id":71,
+                 "name":"birds-1",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/birds.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1303.85050594228,
+                 "x":1092.04758234295,
+                 "y":1328.27481324278
+                }, 
+                {
+                 "height":733.603174872666,
+                 "id":72,
+                 "name":"birds-1",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/birds.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":236.277843803056,
+                 "x":867.939176570459,
+                 "y":1662.40044991511
+                }, 
+                {
                  "height":127.911523310221,
                  "id":1,
                  "name":"website1",
@@ -1190,13 +1243,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":127.260431703969,
                  "x":384.298596499778,
                  "y":863.235950881647
                 }, 
                 {
-                 "class":"area",
                  "height":129.051017107854,
                  "id":5,
                  "name":"website2",
@@ -1212,13 +1265,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":127.117506201461,
                  "x":515.418636000097,
                  "y":959.991897529609
                 }, 
                 {
-                 "class":"area",
                  "height":176.954,
                  "id":48,
                  "name":"fire",
@@ -1239,13 +1292,13 @@
                          "value":"\/fire.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":291.619,
                  "x":1540.68227122372,
                  "y":317.258701482809
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":50,
                  "name":"exit-1",
@@ -1256,13 +1309,13 @@
                          "value":"#entry\/portal-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":2176.60638707195,
                  "y":929.203539823009
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":51,
                  "name":"exit-2",
@@ -1273,13 +1326,13 @@
                          "value":"#entry\/portal-2"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":2078.36400469418,
                  "y":447.969369894388
                 }, 
                 {
-                 "class":"area",
                  "height":81.4772,
                  "id":57,
                  "name":"website3",
@@ -1300,13 +1353,13 @@
                          "value":"Click here for course info\n(will open in the new tab)"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.4603,
                  "x":864.217191756592,
                  "y":1040.82876383086
                 }, 
                 {
-                 "class":"area",
                  "height":83.4964,
                  "id":58,
                  "name":"website4",
@@ -1322,13 +1375,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.5291,
                  "x":1056.24719175659,
                  "y":1040.82876383086
                 }, 
                 {
-                 "class":"area",
                  "height":112.454,
                  "id":59,
                  "name":"website5",
@@ -1344,13 +1397,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":93.723,
                  "x":1185.63719175659,
                  "y":928.063763830858
                 }, 
                 {
-                 "class":"area",
                  "height":114.112,
                  "id":60,
                  "name":"website6",
@@ -1366,13 +1419,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.2276,
                  "x":1441.03719175659,
                  "y":926.240763830858
                 }, 
                 {
-                 "class":"area",
                  "height":113.723,
                  "id":61,
                  "name":"website7",
@@ -1388,13 +1441,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.9354,
                  "x":1601.14719175659,
                  "y":926.623763830858
                 }, 
                 {
-                 "class":"area",
                  "height":113.784,
                  "id":62,
                  "name":"website8",
@@ -1410,13 +1463,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.2307,
                  "x":1759.99719175659,
                  "y":926.562763830858
                 }, 
                 {
-                 "class":"area",
                  "height":112.981,
                  "id":63,
                  "name":"website9",
@@ -1432,13 +1485,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94.8588,
                  "x":1473.25719175659,
                  "y":1438.32876383086
                 }, 
                 {
-                 "class":"area",
                  "height":110,
                  "id":64,
                  "name":"website10",
@@ -1454,13 +1507,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.7253,
                  "x":1664.41719175659,
                  "y":1440.43876383086
                 }, 
                 {
-                 "class":"area",
                  "height":114.847,
                  "id":65,
                  "name":"website11",
@@ -1476,13 +1529,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.8523,
                  "x":1856.57719175659,
                  "y":1436.46876383086
                 }, 
                 {
-                 "class":"area",
                  "height":114.529,
                  "id":66,
                  "name":"website12",
@@ -1498,13 +1551,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.7833,
                  "x":735.626191756592,
                  "y":2078.02876383086
                 }, 
                 {
-                 "class":"area",
                  "height":119.389,
                  "id":67,
                  "name":"website13",
@@ -1520,13 +1573,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.7956,
                  "x":863.022191756591,
                  "y":2007.90876383086
                 }, 
                 {
-                 "class":"area",
                  "height":114.449,
                  "id":68,
                  "name":"website14",
@@ -1542,13 +1595,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.5738,
                  "x":1024.76719175659,
                  "y":2108.25876383086
                 }, 
                 {
-                 "class":"area",
                  "height":53.1718,
                  "id":69,
                  "name":"exit-to-tc",
@@ -1559,13 +1612,13 @@
                          "value":"training-center.tmj"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":53.1718,
                  "x":35.8889271996295,
                  "y":868.503763830858
                 }, 
                 {
-                 "class":"area",
                  "height":28.3910677154392,
                  "id":70,
                  "name":"exit-to-office",
@@ -1576,6 +1629,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/100-roads-office#entry-left-wing"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":30.3401140748995,
                  "x":1201.3133064597,
@@ -2353,7 +2407,7 @@
          "y":0
         }],
  "nextlayerid":55,
- "nextobjectid":71,
+ "nextobjectid":73,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -2377,7 +2431,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -39724,6 +39778,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":75
 }
