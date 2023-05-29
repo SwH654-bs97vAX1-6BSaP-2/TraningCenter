@@ -1791,7 +1791,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "ship-2-chunk-1-95e58de7.png",
+      "image": "ship-2-chunk-1-e31eabbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -1837,7 +1837,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "ship-2-chunk-2-95e58de7.png",
+      "image": "ship-2-chunk-2-e31eabbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -1852,7 +1852,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "ship-2-chunk-3-95e58de7.png",
+      "image": "ship-2-chunk-3-e31eabbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -1867,7 +1867,7 @@
     {
       "columns": 9,
       "firstgid": 769,
-      "image": "ship-2-chunk-4-95e58de7.png",
+      "image": "ship-2-chunk-4-e31eabbf.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
